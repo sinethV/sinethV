@@ -3,7 +3,7 @@
 **IT Professional | Automation Enthusiast | Future DevOps Engineer**
 
 📍 Phnom Penh, Cambodia  
-🎓 Studying at American University of Battambang (AUB)  
+🎓 Studying at ACLEDA UNIVERSITYOF BUSINESS (AUB)  
 💼 Open to Technical Integration & DevOps opportunities
 
 ---
