@@ -67,8 +67,8 @@ Ubuntu Server with automated backups, Nginx web server, and SSH security.
 ## 📫 Connect With Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/moun-sineth](https://linkedin.com/in/moun-sineth)
-- 📧 **Email:** your.email@example.com
-- 🌐 **Portfolio:** [Your Portfolio Link]
+- 📧 **Email:** moeunssineth@gmail.com
+- 🌐 **Portfolio:** [www.linkedin.com/in/moeun-sineth-59592a379]
 
 ---
 
